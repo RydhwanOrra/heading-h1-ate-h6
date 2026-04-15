@@ -5,7 +5,6 @@
 <p>Aprendi a utilização da tag <.h1> até <.h6>. Cada tag tem um tamanho e importância diferente na estrutura.</p>
 <p>Utiliza-se a tag <.h1> para abordar o título principal, exemplo, <.h1>Me acompanhe nesta nova jornada como DEV<./h1>.</p>
 <p>As outras tags são utilizadas para subtítulos e outras informações.</p>
-<p><coloquei o . dentro da tag senão seria formatado></p>
 <p>Aprendi a utilização da tag <.p>, para separar os parágrafos de algum determinado texto.</p>
 <p>Aprendi a utilização de void elementes, com as tags <.br /> e <.hr />.</p>
 <p><.br /> para fazer quebra de texto. Seguir para a próxima linha.</p>
