@@ -9,7 +9,7 @@
 <p>Aprendi a utilização de void elementes, com as tags <.br /> e <.hr />.</p>
 <p><.br /> para fazer quebra de texto. Seguir para a próxima linha.</p>
 <p><.hr /> para colocar literalmente um separador no texto. Uma linha continua, literalmente.</p
-<hr/ >
+<hr />
 <h2>Primeiros exercícos</h2>
 <p>Fiz um exercício simples de alterar a disposição de algumas palavras em uma página, utilizei as tags the heading element.</p>
 <p>Fiz outro exercício para separar os parágrafos de um determinados texto, utilizei the paragraph element.</p>
