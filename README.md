@@ -18,8 +18,8 @@ Aprendi a utilização de void elementes, com as tags <.br /> e <.hr />.
 ---
 
 ## Primeiros exercícos
-Fiz um exercício simples de alterar a disposição de algumas palavras em uma página, utilizei as tags the heading element.<br />
-Fiz outro exercício para separar os parágrafos de um determinados texto, utilizei the paragraph element.<br />
-Tive outro exercício onde utilizamos void elements, heading e paragraph.<br /> 
-Fizemos nosso primeiro "site". Fizemos um rank dos filmes que mais gostamos, com tudo que aprendemos até o momento.<br />
-Bem tranquilo, até agora.<br />
+<p>Fiz um exercício simples de alterar a disposição de algumas palavras em uma página, utilizei as tags the heading element.
+Fiz outro exercício para separar os parágrafos de um determinados texto, utilizei the paragraph element.
+Tive outro exercício onde utilizamos void elements, heading e paragraph. 
+Fizemos nosso primeiro "site". Fizemos um rank dos filmes que mais gostamos, com tudo que aprendemos até o momento.
+Bem tranquilo, até agora.</p>
